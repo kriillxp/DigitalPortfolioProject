@@ -1,0 +1,29 @@
+.content{
+  display: flex;
+  /* background-color: blanchedalmond; */
+  width: 100%;
+  margin-right: 0;
+  margin-left: 0;
+  justify-content:center;
+  align-items: flex-start;
+  height: max-content;
+  width: max-content;
+}
+.main__content__image-list{
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  justify-content:center;
+}
+.main__content__image-list li{
+  margin-top: 0;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  display: flex;
+}
+.main__content__image-list__image-string{
+  display: flex;
+}
+.main__content__image-list__image-string__image-list{
+  display: flex;
+}
