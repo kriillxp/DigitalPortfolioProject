@@ -33,7 +33,8 @@
     margin-right: 11px;
     display: flex;
 }
-.content__project-image-list li{
+
+.content__project-image-list li {
     display: flex;
     margin-bottom: 50px;
 }

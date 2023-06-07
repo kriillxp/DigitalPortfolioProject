@@ -44,21 +44,25 @@
   margin-left: 10px;
   width: 70px;
 }
-.footer__left-content__button-text{
+
+.footer__left-content__button-text {
   margin-top: 10px;
-  color:white;
+  color: white;
 }
-.footer__right-content{
+
+.footer__right-content {
   display: flex;
   justify-content: space-between;
   height: 30%;
-  margin-bottom:5%;
+  margin-bottom: 5%;
 }
-.footer__right-content__media-nav{
+
+.footer__right-content__media-nav {
   display: flex;
   justify-content: left;
 }
-.footer__right-content__media-nav__media-list{
+
+.footer__right-content__media-nav__media-list {
   display: flex;
   list-style-type: none;
   flex-direction: column;
