@@ -4,12 +4,9 @@
   border: 0;
   box-sizing: border-box;
 }
-body{
-  overflow-y:hidden;
-}
 .wrapper{
   position: relative;
-  overflow-y:scroll;
+  height: max-content;
 }
 a {
   text-decoration: none;

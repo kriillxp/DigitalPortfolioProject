@@ -1,5 +1,6 @@
 .main{
   display: flex;
   /* background-color:blueviolet; */
-  height: 100vh;
+  height: max-content;
+  width: 100%;
 }
