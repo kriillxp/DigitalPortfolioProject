@@ -1,124 +1,252 @@
 .string-1 {
-  height: 490px;
+  height: 500px;
 }
 
 .string-2 {
-  height: 403px;
+  height: 411.5px;
 
 }
 
 .string-3 {
-  height: 487px;
+  height: 497.5px;
 }
 
 .string-4 {
-  height: 388px;
+  height: 396px;
 }
 
 .string-5 {
-  height: 494px;
+  height: 504.5px;
 }
 
 .string-6 {
-  height: 492px;
+  height: 502px;
 }
 
 .string-7 {
-  height: 374.5px;
+  height: 382px;
 }
 
 .string-8 {
-  height: 395px;
-}
-
-.string-9 {
-  height: 419px;
-}
-
-.string-10 {
-  height: 724.5px;
-}
-
-.string-11 {
-  height: 612px;
-}
-
-.string-12 {
-  height: 407px;
-}
-
-.string-13 {
-  height: 427px;
-}
-
-.string-14 {
-  height: 512px;
-}
-
-.string-15 {
   height: 403.5px;
 }
 
+.string-9 {
+  height: 428px;
+}
+
+.string-10 {
+  height: 739.5px;
+}
+
+.string-11 {
+  height: 624.5px;
+}
+
+.string-12 {
+  height: 415.5px;
+}
+
+.string-13 {
+  height: 435.5px;
+}
+
+.string-14 {
+  height: 523px;
+}
+
+.string-15 {
+  height: 411.6px;
+}
+
 .string-16 {
-  height: 366.6px;
+  height: 374.5px;
 }
 
 .string-17 {
-  height: 498px;
+  height: 508.5px;
 }
 
 .string-18 {
-  height: 408.5px;
+  height: 417px;
 }
 
 .string-19 {
-  height: 515px;
+  height: 525.5px;
 }
 
 .string-20 {
-  height: 429.5px;
+  height: 438.5px;
 }
 
 .string-21 {
-  height: 496.5px;
+  height: 507px;
 }
 
 .string-22 {
-  height: 368.5px;
+  height: 376.5px;
 }
 
 .string-23 {
-  height: 499px;
+  height: 509.5px;
 }
 
 .string-24 {
-  height: 371px;
+  height: 379px;
 }
 
 .string-25 {
-  height: 644.5px;
+  height: 657.5px;
 }
 
 .string-26 {
-  height: 611.5px;
+  height: 624px;
 }
 
 .string-27 {
-  height: 407px;
+  height: 415px;
 }
 
 .string-28 {
-  height: 361.5px;
+  height: 368.5px;
 }
 
 .string-29 {
-  height: 559px;
+  height: 570px;
 }
 
 .string-30 {
-  height: 512px;
+  height: 522px;
 }
 
 .string-31 {
-  height: 500.5px;
+  height: 510.5px;
+}
+
+
+@media (max-width: 1915px) {
+  .string-1 {
+    height: 490px;
+  }
+
+  .string-2 {
+    height: 403px;
+
+  }
+
+  .string-3 {
+    height: 487px;
+  }
+
+  .string-4 {
+    height: 388px;
+  }
+
+  .string-5 {
+    height: 494px;
+  }
+
+  .string-6 {
+    height: 492px;
+  }
+
+  .string-7 {
+    height: 374.5px;
+  }
+
+  .string-8 {
+    height: 395px;
+  }
+
+  .string-9 {
+    height: 419px;
+  }
+
+  .string-10 {
+    height: 724.5px;
+  }
+
+  .string-11 {
+    height: 612px;
+  }
+
+  .string-12 {
+    height: 407px;
+  }
+
+  .string-13 {
+    height: 427px;
+  }
+
+  .string-14 {
+    height: 512px;
+  }
+
+  .string-15 {
+    height: 403.5px;
+  }
+
+  .string-16 {
+    height: 366.6px;
+  }
+
+  .string-17 {
+    height: 498px;
+  }
+
+  .string-18 {
+    height: 408.5px;
+  }
+
+  .string-19 {
+    height: 515px;
+  }
+
+  .string-20 {
+    height: 429.5px;
+  }
+
+  .string-21 {
+    height: 496.5px;
+  }
+
+  .string-22 {
+    height: 368.5px;
+  }
+
+  .string-23 {
+    height: 499px;
+  }
+
+  .string-24 {
+    height: 371px;
+  }
+
+  .string-25 {
+    height: 644.5px;
+  }
+
+  .string-26 {
+    height: 611.5px;
+  }
+
+  .string-27 {
+    height: 407px;
+  }
+
+  .string-28 {
+    height: 361.5px;
+  }
+
+  .string-29 {
+    height: 559px;
+  }
+
+  .string-30 {
+    height: 512px;
+  }
+
+  .string-31 {
+    height: 500.5px;
+  }
 }
