@@ -1,0 +1,100 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sing-content {
+    background-color: grey;
+    width: 80%;
+    height: 40vh;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sing-content__text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sing-content__input-form {
+    width: 40%;
+    height: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-prise {
+    display: flex;
+    width: 80%;
+    height: 65vh;
+    justify-content: space-between;
+    margin-top: 20vh;
+}
+
+.content-prise__one-article {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 85%;
+    align-items: flex-start;
+}
+
+.content-prise__two-article {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 95%;
+    align-items: flex-start;
+}
+
+.content-text {
+    margin-top: 20vh;
+    width: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 30vh;
+}
+
+.content-text__h1 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.content-text__p {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 60%;
+}
+
+.content-vk {
+    margin-top: 20vh;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 30vh;
+}
+
+.content-vk__p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 35%;
+}
+
+.content-text__p__button {
+    height: 35%;
+    width: 20%;
+}
